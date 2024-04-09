@@ -1,3 +1,23 @@
+# Steps to run the app
+
+# FIRST CLONE THE PROJECT FROM GITHUB AND OPEN THE FOLDER IN VS STUDIO
+
+Step-1 run this command in vs code terminal 
+# npm install -g create-react-app
+
+Step-2 run this command in vs code terminal
+# npm install react-scripts --save
+
+Step -3 run this command in vs code terminal
+# npm cache clean --force
+
+Step-4 run this command in vs code terminal
+# npm install
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
