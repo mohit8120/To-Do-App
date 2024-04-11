@@ -14,6 +14,9 @@ Step -3 run this command in vs code terminal
 Step-4 run this command in vs code terminal
 # npm install
 
+step-5 run this command in vs code terminal
+# npm start
+
 
 
 
