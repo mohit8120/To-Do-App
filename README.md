@@ -1,6 +1,6 @@
 # Steps to run the app
 
-# FIRST CLONE THE PROJECT FROM GITHUB AND OPEN THE FOLDER IN VS STUDIO
+# FIRST CLONE THE PROJECT FROM GITHUB AND OPEN THE FOLDER IN VS STUDIO FOR EXAMPLE -: C:\Users\USERNAME\To-Do project\todo-list-app
 
 Step-1 run this command in vs code terminal 
 # npm install -g create-react-app
